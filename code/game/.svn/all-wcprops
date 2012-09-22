@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4717/trunk/code/game
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4193/trunk/code/game/hud.dm
+END
+shuttle_engines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4147/trunk/code/game/shuttle_engines.dm
+END
+dna.dm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4457/trunk/code/game/dna.dm
+END
+atoms.dm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4659/trunk/code/game/atoms.dm
+END
+supplyshuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4708/trunk/code/game/supplyshuttle.dm
+END
+communications.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2975/trunk/code/game/communications.dm
+END
+skincmd.dm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2529/trunk/code/game/skincmd.dm
+END
+atoms_movable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4659/trunk/code/game/atoms_movable.dm
+END
+sound.dm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4488/trunk/code/game/sound.dm
+END
+smoothwall.dm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4442/trunk/code/game/smoothwall.dm
+END
+asteroid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4659/trunk/code/game/asteroid.dm
+END

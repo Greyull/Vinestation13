@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4717/trunk/code/game/jobs/job
+END
+silicon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3889/trunk/code/game/jobs/job/silicon.dm
+END
+security.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4423/trunk/code/game/jobs/job/security.dm
+END
+science.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4423/trunk/code/game/jobs/job/science.dm
+END
+assistant.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4423/trunk/code/game/jobs/job/assistant.dm
+END
+engineering.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4717/trunk/code/game/jobs/job/engineering.dm
+END
+job.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3471/trunk/code/game/jobs/job/job.dm
+END
+civilian_chaplain.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4423/trunk/code/game/jobs/job/civilian_chaplain.dm
+END
+medical.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4423/trunk/code/game/jobs/job/medical.dm
+END
+civilian.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4451/trunk/code/game/jobs/job/civilian.dm
+END
+captain.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4717/trunk/code/game/jobs/job/captain.dm
+END

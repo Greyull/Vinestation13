@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4640/trunk/code/game/machinery/telecomms
+END
+telemonitor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4488/trunk/code/game/machinery/telecomms/telemonitor.dm
+END
+telecomunications.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4636/trunk/code/game/machinery/telecomms/telecomunications.dm
+END
+logbrowser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4488/trunk/code/game/machinery/telecomms/logbrowser.dm
+END
+presets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4636/trunk/code/game/machinery/telecomms/presets.dm
+END
+machine_interactions.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4536/trunk/code/game/machinery/telecomms/machine_interactions.dm
+END
+broadcaster.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4640/trunk/code/game/machinery/telecomms/broadcaster.dm
+END
+traffic_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4488/trunk/code/game/machinery/telecomms/traffic_control.dm
+END

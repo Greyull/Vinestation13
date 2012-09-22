@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4488/trunk/code/unused/mining
+END
+mine_generator_unused.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2983/trunk/code/unused/mining/mine_generator_unused.dm
+END
+machine_craftlathe_unused.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2983/trunk/code/unused/mining/machine_craftlathe_unused.dm
+END
+spaceship_builder_unused.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4488/trunk/code/unused/mining/spaceship_builder_unused.dm
+END
+rail_unused.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4488/trunk/code/unused/mining/rail_unused.dm
+END
+machine_purifier_unused.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4488/trunk/code/unused/mining/machine_purifier_unused.dm
+END
+machine_gas_extractor_unused.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4488/trunk/code/unused/mining/machine_gas_extractor_unused.dm
+END
+datum_processing_recipe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3152/trunk/code/unused/mining/datum_processing_recipe.dm
+END

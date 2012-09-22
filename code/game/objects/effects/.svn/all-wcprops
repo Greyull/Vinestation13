@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4693/trunk/code/game/objects/effects
+END
+effect_system.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4537/trunk/code/game/objects/effects/effect_system.dm
+END
+glowshroom.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4537/trunk/code/game/objects/effects/glowshroom.dm
+END
+biomass_rift.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4547/trunk/code/game/objects/effects/biomass_rift.dm
+END
+step_triggers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4659/trunk/code/game/objects/effects/step_triggers.dm
+END
+signs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4547/trunk/code/game/objects/effects/signs.dm
+END
+portals.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4582/trunk/code/game/objects/effects/portals.dm
+END
+overlays.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4603/trunk/code/game/objects/effects/overlays.dm
+END
+gibs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4547/trunk/code/game/objects/effects/gibs.dm
+END
+manifest.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4583/trunk/code/game/objects/effects/manifest.dm
+END
+aliens.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4693/trunk/code/game/objects/effects/aliens.dm
+END
+mines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4582/trunk/code/game/objects/effects/mines.dm
+END
+misc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4627/trunk/code/game/objects/effects/misc.dm
+END
+landmarks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4670/trunk/code/game/objects/effects/landmarks.dm
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4684/trunk/code/game/turfs/simulated
+END
+floor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4684/trunk/code/game/turfs/simulated/floor.dm
+END
+walls_reinforced.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4659/trunk/code/game/turfs/simulated/walls_reinforced.dm
+END
+beach.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4583/trunk/code/game/turfs/simulated/beach.dm
+END
+walls.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4659/trunk/code/game/turfs/simulated/walls.dm
+END
+floor_types.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4659/trunk/code/game/turfs/simulated/floor_types.dm
+END
+walls_mineral.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4659/trunk/code/game/turfs/simulated/walls_mineral.dm
+END
+asteroid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4659/trunk/code/game/turfs/simulated/asteroid.dm
+END
+walls_misc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4659/trunk/code/game/turfs/simulated/walls_misc.dm
+END

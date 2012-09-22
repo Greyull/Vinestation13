@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4701/trunk/code/game/objects/structures/crates_lockers/closets
+END
+gimmick.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/gimmick.dm
+END
+fireaxe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4520/trunk/code/game/objects/structures/crates_lockers/closets/fireaxe.dm
+END
+syndicate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4701/trunk/code/game/objects/structures/crates_lockers/closets/syndicate.dm
+END
+coffin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/coffin.dm
+END
+wardrobe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/wardrobe.dm
+END
+job_closets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/job_closets.dm
+END
+l3closet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/l3closet.dm
+END
+crittercrate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/crittercrate.dm
+END
+fitness.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/fitness.dm
+END
+malfunction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/malfunction.dm
+END
+utility_closets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4627/trunk/code/game/objects/structures/crates_lockers/closets/utility_closets.dm
+END

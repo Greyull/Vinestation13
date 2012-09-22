@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4714/trunk/code/game/machinery/kitchen
+END
+juicer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4488/trunk/code/game/machinery/kitchen/juicer.dm
+END
+smartfridge.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4550/trunk/code/game/machinery/kitchen/smartfridge.dm
+END
+gibber.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4488/trunk/code/game/machinery/kitchen/gibber.dm
+END
+microwave.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4637/trunk/code/game/machinery/kitchen/microwave.dm
+END
+processor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4714/trunk/code/game/machinery/kitchen/processor.dm
+END

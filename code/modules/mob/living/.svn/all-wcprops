@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4715/trunk/code/modules/mob/living
+END
+living_defense.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3900/trunk/code/modules/mob/living/living_defense.dm
+END
+damage_procs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3983/trunk/code/modules/mob/living/damage_procs.dm
+END
+living_defines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/living_defines.dm
+END
+living.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4475/trunk/code/modules/mob/living/living.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4708/trunk/code/modules/mob/living/login.dm
+END
+logout.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4342/trunk/code/modules/mob/living/logout.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4658/trunk/code/modules/mob/living/say.dm
+END

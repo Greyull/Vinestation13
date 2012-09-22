@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4717/trunk/code/modules/power/singularity
+END
+investigate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3679/trunk/code/modules/power/singularity/investigate.dm
+END
+containment_field.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4537/trunk/code/modules/power/singularity/containment_field.dm
+END
+collector.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4643/trunk/code/modules/power/singularity/collector.dm
+END
+generator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4603/trunk/code/modules/power/singularity/generator.dm
+END
+emitter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4603/trunk/code/modules/power/singularity/emitter.dm
+END
+field_generator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4488/trunk/code/modules/power/singularity/field_generator.dm
+END
+singularity.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4717/trunk/code/modules/power/singularity/singularity.dm
+END

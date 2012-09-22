@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4488/trunk/code/unused/pda2
+END
+base_program.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1964/trunk/code/unused/pda2/base_program.dm
+END
+smallprogs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1964/trunk/code/unused/pda2/smallprogs.dm
+END
+pda2.dm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4488/trunk/code/unused/pda2/pda2.dm
+END
+record_progs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1964/trunk/code/unused/pda2/record_progs.dm
+END
+base_os.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2899/trunk/code/unused/pda2/base_os.dm
+END
+scanners.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2536/trunk/code/unused/pda2/scanners.dm
+END

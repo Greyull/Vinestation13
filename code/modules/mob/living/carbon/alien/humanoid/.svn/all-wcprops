@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4681/trunk/code/modules/mob/living/carbon/alien/humanoid
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4507/trunk/code/modules/mob/living/carbon/alien/humanoid/hud.dm
+END
+humanoid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4681/trunk/code/modules/mob/living/carbon/alien/humanoid/humanoid.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4488/trunk/code/modules/mob/living/carbon/alien/humanoid/death.dm
+END
+alien_powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4334/trunk/code/modules/mob/living/carbon/alien/humanoid/alien_powers.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4072/trunk/code/modules/mob/living/carbon/alien/humanoid/login.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4488/trunk/code/modules/mob/living/carbon/alien/humanoid/emote.dm
+END
+update_icons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4147/trunk/code/modules/mob/living/carbon/alien/humanoid/update_icons.dm
+END
+inventory.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4599/trunk/code/modules/mob/living/carbon/alien/humanoid/inventory.dm
+END
+queen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4676/trunk/code/modules/mob/living/carbon/alien/humanoid/queen.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4428/trunk/code/modules/mob/living/carbon/alien/humanoid/life.dm
+END

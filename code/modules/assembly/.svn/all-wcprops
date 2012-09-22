@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4708/trunk/code/modules/assembly
+END
+timer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4644/trunk/code/modules/assembly/timer.dm
+END
+igniter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4555/trunk/code/modules/assembly/igniter.dm
+END
+helpers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4555/trunk/code/modules/assembly/helpers.dm
+END
+signaler.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4644/trunk/code/modules/assembly/signaler.dm
+END
+proximity.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4555/trunk/code/modules/assembly/proximity.dm
+END
+infrared.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4555/trunk/code/modules/assembly/infrared.dm
+END
+holder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4644/trunk/code/modules/assembly/holder.dm
+END
+shock_kit.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4694/trunk/code/modules/assembly/shock_kit.dm
+END
+assembly.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4644/trunk/code/modules/assembly/assembly.dm
+END
+bomb.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4708/trunk/code/modules/assembly/bomb.dm
+END

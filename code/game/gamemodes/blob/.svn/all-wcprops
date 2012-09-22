@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4488/trunk/code/game/gamemodes/blob
+END
+blob_report.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4179/trunk/code/game/gamemodes/blob/blob_report.dm
+END
+blob.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4488/trunk/code/game/gamemodes/blob/blob.dm
+END
+blob_finish.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4179/trunk/code/game/gamemodes/blob/blob_finish.dm
+END
+theblob.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4488/trunk/code/game/gamemodes/blob/theblob.dm
+END

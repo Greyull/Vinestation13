@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/silicon/decoy
+END
+decoy.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/silicon/decoy/decoy.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4072/trunk/code/modules/mob/living/silicon/decoy/death.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2536/trunk/code/modules/mob/living/silicon/decoy/life.dm
+END

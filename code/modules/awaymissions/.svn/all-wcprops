@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4670/trunk/code/modules/awaymissions
+END
+gateway.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4668/trunk/code/modules/awaymissions/gateway.dm
+END
+zlevel.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4670/trunk/code/modules/awaymissions/zlevel.dm
+END
+trigger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4609/trunk/code/modules/awaymissions/trigger.dm
+END
+pamphlet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4668/trunk/code/modules/awaymissions/pamphlet.dm
+END
+loot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4661/trunk/code/modules/awaymissions/loot.dm
+END

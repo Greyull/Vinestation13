@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4666/trunk/code/modules/library
+END
+lib_readme.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4513/trunk/code/modules/library/lib_readme.dm
+END
+lib_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4666/trunk/code/modules/library/lib_items.dm
+END
+lib_machines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4513/trunk/code/modules/library/lib_machines.dm
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4672/trunk/code/datums/spells
+END
+projectile.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4654/trunk/code/datums/spells/projectile.dm
+END
+explosion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4654/trunk/code/datums/spells/explosion.dm
+END
+wizard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4672/trunk/code/datums/spells/wizard.dm
+END
+trigger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4654/trunk/code/datums/spells/trigger.dm
+END
+inflict_handler.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2683/trunk/code/datums/spells/inflict_handler.dm
+END
+emplosion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4654/trunk/code/datums/spells/emplosion.dm
+END
+conjure.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4497/trunk/code/datums/spells/conjure.dm
+END
+knock.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2324/trunk/code/datums/spells/knock.dm
+END
+area_teleport.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4654/trunk/code/datums/spells/area_teleport.dm
+END
+ethereal_jaunt.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4654/trunk/code/datums/spells/ethereal_jaunt.dm
+END
+mind_transfer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4654/trunk/code/datums/spells/mind_transfer.dm
+END
+turf_teleport.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4654/trunk/code/datums/spells/turf_teleport.dm
+END
+genetic.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4654/trunk/code/datums/spells/genetic.dm
+END

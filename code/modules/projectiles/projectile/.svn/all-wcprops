@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4701/trunk/code/modules/projectiles/projectile
+END
+special.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4571/trunk/code/modules/projectiles/projectile/special.dm
+END
+change.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4440/trunk/code/modules/projectiles/projectile/change.dm
+END
+beams.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3947/trunk/code/modules/projectiles/projectile/beams.dm
+END
+energy.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3947/trunk/code/modules/projectiles/projectile/energy.dm
+END
+bullets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4701/trunk/code/modules/projectiles/projectile/bullets.dm
+END

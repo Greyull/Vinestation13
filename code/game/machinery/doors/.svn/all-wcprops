@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4696/trunk/code/game/machinery/doors
+END
+shutters.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4695/trunk/code/game/machinery/doors/shutters.dm
+END
+door.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4695/trunk/code/game/machinery/doors/door.dm
+END
+airlock.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4650/trunk/code/game/machinery/doors/airlock.dm
+END
+poddoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4585/trunk/code/game/machinery/doors/poddoor.dm
+END
+checkForMultipleDoors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/code/game/machinery/doors/checkForMultipleDoors.dm
+END
+unpowered.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4147/trunk/code/game/machinery/doors/unpowered.dm
+END
+firedoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4696/trunk/code/game/machinery/doors/firedoor.dm
+END
+brigdoors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4147/trunk/code/game/machinery/doors/brigdoors.dm
+END
+windowdoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4585/trunk/code/game/machinery/doors/windowdoor.dm
+END
+airlock_electronics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4147/trunk/code/game/machinery/doors/airlock_electronics.dm
+END

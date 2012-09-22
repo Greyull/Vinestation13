@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/carbon/alien/humanoid/caste
+END
+sentinel.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/carbon/alien/humanoid/caste/sentinel.dm
+END
+hunter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/carbon/alien/humanoid/caste/hunter.dm
+END
+drone.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4510/trunk/code/modules/mob/living/carbon/alien/humanoid/caste/drone.dm
+END

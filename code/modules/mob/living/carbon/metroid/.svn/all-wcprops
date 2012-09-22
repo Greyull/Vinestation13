@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4714/trunk/code/modules/mob/living/carbon/metroid
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3481/trunk/code/modules/mob/living/carbon/metroid/hud.dm
+END
+metroid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4714/trunk/code/modules/mob/living/carbon/metroid/metroid.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4714/trunk/code/modules/mob/living/carbon/metroid/death.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3985/trunk/code/modules/mob/living/carbon/metroid/examine.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4088/trunk/code/modules/mob/living/carbon/metroid/login.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1774/trunk/code/modules/mob/living/carbon/metroid/emote.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3976/trunk/code/modules/mob/living/carbon/metroid/say.dm
+END
+update_icons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3811/trunk/code/modules/mob/living/carbon/metroid/update_icons.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4459/trunk/code/modules/mob/living/carbon/metroid/life.dm
+END
+powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4714/trunk/code/modules/mob/living/carbon/metroid/powers.dm
+END

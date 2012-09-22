@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4517/trunk/code/modules/detectivework
+END
+evidence.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4213/trunk/code/modules/detectivework/evidence.dm
+END
+footprints_and_rag.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4517/trunk/code/modules/detectivework/footprints_and_rag.dm
+END
+scanner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3727/trunk/code/modules/detectivework/scanner.dm
+END
+detective_work.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3900/trunk/code/modules/detectivework/detective_work.dm
+END

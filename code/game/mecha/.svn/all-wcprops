@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4623/trunk/code/game/mecha
+END
+mecha_wreckage.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4147/trunk/code/game/mecha/mecha_wreckage.dm
+END
+mecha_construction_paths.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4488/trunk/code/game/mecha/mecha_construction_paths.dm
+END
+mecha_parts.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4147/trunk/code/game/mecha/mecha_parts.dm
+END
+mech_bay.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4147/trunk/code/game/mecha/mech_bay.dm
+END
+mech_fabricator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4600/trunk/code/game/mecha/mech_fabricator.dm
+END
+mecha.dm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4537/trunk/code/game/mecha/mecha.dm
+END
+mecha_control_console.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4147/trunk/code/game/mecha/mecha_control_console.dm
+END

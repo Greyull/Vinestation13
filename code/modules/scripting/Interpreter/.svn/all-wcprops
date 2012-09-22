@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3242/trunk/code/modules/scripting/Interpreter
+END
+Interpreter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3242/trunk/code/modules/scripting/Interpreter/Interpreter.dm
+END
+Evaluation.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3193/trunk/code/modules/scripting/Interpreter/Evaluation.dm
+END
+Scope.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3193/trunk/code/modules/scripting/Interpreter/Scope.dm
+END
+Interaction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3242/trunk/code/modules/scripting/Interpreter/Interaction.dm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4325/trunk/code/modules/scripting
+END
+IDE.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3394/trunk/code/modules/scripting/IDE.dm
+END
+stack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3193/trunk/code/modules/scripting/stack.dm
+END
+Options.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3193/trunk/code/modules/scripting/Options.dm
+END
+Errors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3252/trunk/code/modules/scripting/Errors.dm
+END

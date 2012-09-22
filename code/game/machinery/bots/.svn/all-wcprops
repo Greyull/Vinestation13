@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4629/trunk/code/game/machinery/bots
+END
+floorbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4629/trunk/code/game/machinery/bots/floorbot.dm
+END
+bots.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4575/trunk/code/game/machinery/bots/bots.dm
+END
+mulebot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4528/trunk/code/game/machinery/bots/mulebot.dm
+END
+cleanbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4629/trunk/code/game/machinery/bots/cleanbot.dm
+END
+ed209bot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4629/trunk/code/game/machinery/bots/ed209bot.dm
+END
+medbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4629/trunk/code/game/machinery/bots/medbot.dm
+END
+secbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4629/trunk/code/game/machinery/bots/secbot.dm
+END

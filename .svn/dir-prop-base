@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 139
+TO_DO.txt
+goonstation.dmb
+png_icons
+tgstation.dmb
+tgstation.dyn.rsc
+tgstation.int
+tgstation.lk
+tgstation.rsc
+tgstation.rsc.lk
+*.lk
+*.patch
+
+END

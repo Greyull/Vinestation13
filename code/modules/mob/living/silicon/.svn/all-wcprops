@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4681/trunk/code/modules/mob/living/silicon
+END
+silicon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4606/trunk/code/modules/mob/living/silicon/silicon.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4179/trunk/code/modules/mob/living/silicon/death.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4322/trunk/code/modules/mob/living/silicon/login.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4673/trunk/code/modules/mob/living/silicon/say.dm
+END

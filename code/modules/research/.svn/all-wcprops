@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4603/trunk/code/modules/research
+END
+rd-readme.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1964/trunk/code/modules/research/rd-readme.dm
+END
+protolathe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4488/trunk/code/modules/research/protolathe.dm
+END
+destructive_analyzer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4488/trunk/code/modules/research/destructive_analyzer.dm
+END
+circuitprinter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4488/trunk/code/modules/research/circuitprinter.dm
+END
+server.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4603/trunk/code/modules/research/server.dm
+END
+rdconsole.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4488/trunk/code/modules/research/rdconsole.dm
+END
+message_server.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4603/trunk/code/modules/research/message_server.dm
+END
+designs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4395/trunk/code/modules/research/designs.dm
+END
+research.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4243/trunk/code/modules/research/research.dm
+END
+rdmachines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4243/trunk/code/modules/research/rdmachines.dm
+END

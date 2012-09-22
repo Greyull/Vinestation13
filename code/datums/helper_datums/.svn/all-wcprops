@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4663/trunk/code/datums/helper_datums
+END
+construction_datum.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2463/trunk/code/datums/helper_datums/construction_datum.dm
+END
+events.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3057/trunk/code/datums/helper_datums/events.dm
+END
+global_iterator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2780/trunk/code/datums/helper_datums/global_iterator.dm
+END
+getrev.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4420/trunk/code/datums/helper_datums/getrev.dm
+END
+topic_input.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2405/trunk/code/datums/helper_datums/topic_input.dm
+END
+teleport.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4663/trunk/code/datums/helper_datums/teleport.dm
+END

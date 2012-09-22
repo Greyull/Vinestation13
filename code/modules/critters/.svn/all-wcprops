@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4488/trunk/code/modules/critters
+END
+critter_AI.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4153/trunk/code/modules/critters/critter_AI.dm
+END
+critter_defenses.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4488/trunk/code/modules/critters/critter_defenses.dm
+END
+critter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4153/trunk/code/modules/critters/critter.dm
+END
+critters.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4488/trunk/code/modules/critters/critters.dm
+END

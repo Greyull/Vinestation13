@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4423/trunk/code/unused/gamemodes
+END
+restructuring.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2472/trunk/code/unused/gamemodes/restructuring.dm
+END
+ruby.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4179/trunk/code/unused/gamemodes/ruby.dm
+END
+monkey.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4179/trunk/code/unused/gamemodes/monkey.dm
+END
+deathmatch.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4423/trunk/code/unused/gamemodes/deathmatch.dm
+END
+ctf.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3537/trunk/code/unused/gamemodes/ctf.dm
+END
+ctf_items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4179/trunk/code/unused/gamemodes/ctf_items.dm
+END

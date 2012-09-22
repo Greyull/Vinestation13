@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4681/trunk/code/modules/mob/living/carbon/alien
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4179/trunk/code/modules/mob/living/carbon/alien/death.dm
+END
+alien.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4561/trunk/code/modules/mob/living/carbon/alien/alien.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4561/trunk/code/modules/mob/living/carbon/alien/login.dm
+END
+logout.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4561/trunk/code/modules/mob/living/carbon/alien/logout.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4179/trunk/code/modules/mob/living/carbon/alien/say.dm
+END
+powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4137/trunk/code/modules/mob/living/carbon/alien/powers.dm
+END
