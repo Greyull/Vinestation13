@@ -53,17 +53,17 @@ LOG_PDA
 ## default probablity is 1, increase to make that mode more likely to be picked
 ## set to 0 to disable that mode
 ## Cult mode is in alpha test, enable at your own risk
-PROBABILITY EXTENDED 0
-PROBABILITY TRAITOR 0
+PROBABILITY EXTENDED 1
+PROBABILITY TRAITOR 2
 PROBABILITY METEOR 0
-PROBABILITY MALFUNCTION 2
+PROBABILITY MALFUNCTION 1
 PROBABILITY BLOB 0
-PROBABILITY NUCLEAR 5
+PROBABILITY NUCLEAR 1
 PROBABILITY SANDBOX 0
-PROBABILITY WIZARD 0
+PROBABILITY WIZARD 1
 PROBABILITY RESTRUCTURING 0
-PROBABILITY REVOLUTION 5
-PROBABILITY CHANGELING 0
+PROBABILITY REVOLUTION 1
+PROBABILITY CHANGELING 1
 PROBABILITY CULT 1
 PROBABILITY MONKEY 0
 PROBABILITY TRAITORCHAN 0
@@ -81,10 +81,10 @@ ALLOW_RANDOM_EVENTS
 ALLOW_METADATA
 
 ## allow players to initiate a restart vote
-#ALLOW_VOTE_RESTART
+ALLOW_VOTE_RESTART
 
 ## allow players to initate a mode-change start
-#ALLOW_VOTE_MODE
+ALLOW_VOTE_MODE
 
 ## min delay (deciseconds) between voting sessions (default 10 minutes)
 VOTE_DELAY 6000
@@ -116,7 +116,7 @@ HOSTEDBY Yournamehere
 # GUEST_JOBBAN
 
 ## Uncomment this to stop people connecting to your server without a registered ckey. (i.e. guest-* are all blocked from connecting)
-# GUEST_BAN
+GUEST_BAN
 
 ## Set to jobban everyone who's key is not listed in data/whitelist.txt from Captain, HoS, HoP, CE, RD, CMO, Warden, Security, Detective, and AI positions.
 ## Uncomment to 1 to jobban, leave commented out to allow these positions for everyone (but see GUEST_JOBBAN above and regular jobbans)
@@ -126,13 +126,13 @@ HOSTEDBY Yournamehere
 # SERVER ss13.example.com:2506
 
 ## forum address
-# FORUMURL http://justanotherday.example.com
+FORUMURL http://justanotherday.example.com
 
 ## Wiki address
-# WIKIURL http://www.nanotrasen.com/wiki/index.php
+WIKIURL http://www.nanotrasen.com/wiki/index.php
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-# BANAPPEALS http://justanotherday.example.com
+BANAPPEALS http://vinesaucevidya.com/vinetalk/index.php?topic=2160.0
 
 ## In-game features
 ##Toggle for having jobs load up from the .txt
@@ -143,16 +143,16 @@ HOSTEDBY Yournamehere
 
 ## Remove the # to show a popup 'reply to' window to every non-admin that recieves an adminPM. 
 ## The intention is to make adminPMs more visible. (although I fnd popups annoying so this defaults to off)
-#POPUP_ADMIN_PM
+POPUP_ADMIN_PM
 
 ## Remove the # to allow special 'Easter-egg' events on special holidays such as seasonal holidays and stuff like 'Talk Like a Pirate Day' :3 YAARRR
-#ALLOW_HOLIDAYS
+ALLOW_HOLIDAYS
 
 ##Remove the # mark if you are going to use the SVN irc bot to relay adminhelps
 #USEIRCBOT
 
 ##Defines the ticklag for the world.  0.9 is the normal one, 0.5 is smoother.
-TICKLAG 0.9
+TICKLAG 0.5
 
 ## Defines if Tick Compensation is used.  It results in a minor slowdown of movement of all mobs, but attempts to result in a level movement speed across all ticks.  Recommended if tickrate is lowered.
 TICKCOMP 0
