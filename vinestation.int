@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
+WINDOW: maps\tgstation.2.0.9.dmm
 LAST_COMPILE_VERSION: 496.1145
-WINDOW: code\game\machinery\computer\aifixer.dm;code\names.dm;maps\tgstation.2.0.9.dmm
 UPDATE_OBJ_TREE: ON
-DIR: code code\controllers code\game code\game\machinery code\game\machinery\computer code\game\objects\structures\crates_lockers\closets code\game\vehicles\airtight code\modules code\modules\recycling code\unused maps tools\Redirector 
+DIR: code code\ATMOSPHERICS\components code\ATMOSPHERICS\components\binary_devices code\ATMOSPHERICS\components\unary code\datums\helper_datums code\datums\spells code\defines\obj code\defines\procs code\game code\game\area code\game\gamemodes code\game\gamemodes\nuclear code\game\machinery code\game\objects\structures\crates_lockers\closets code\game\vehicles\airtight icons maps tools\Redirector 
 FILE: maps\tgstation.2.0.9.dmm
-LAST_COMPILE_TIME: 1348408075
+LAST_COMPILE_TIME: 1348733211
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS

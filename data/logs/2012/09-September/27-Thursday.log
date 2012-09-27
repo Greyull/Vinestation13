@@ -1,0 +1,65 @@
+
+
+Starting up. 00:01.06
+---------------------
+
+[00:01:06]ADMIN: Loading jobban_rank
+[00:01:06]ADMIN: jobban_keylist was empty
+[00:01:06]ADMIN: Updating jobbanfile!
+[00:01:06]ADMIN: Loading Banlist
+[00:03:11]SAY: Tom/ : Squeek?
+[00:04:37]SAY: mouse/ : SQUEEK!
+[00:06:45]SAY: Tom/ : SQUEEK!
+[00:07:44]GAME: SQL ERROR during player polling. Failed to connect.
+[00:07:47]ACCESS: Logout: *no client*/(HashedVariable)
+[00:07:47]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[00:08:45]GAME: SQL ERROR during admin polling. Failed to connect.
+[00:10:20]SAY: Ian/ : AUUUUUU
+[00:10:54]SAY: mouse/ : Squeek?
+[00:11:17]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)
+
+
+Starting up. 00:38.54
+---------------------
+
+[00:38:54]ADMIN: Loading jobban_rank
+[00:38:54]ADMIN: jobban_keylist was empty
+[00:38:54]ADMIN: Updating jobbanfile!
+[00:38:54]ADMIN: Loading Banlist
+[00:39:54]ACCESS: Login: HashedVariable/(HashedVariable) from 127.0.0.1-4140805430 || BYOND v496
+[00:40:00]ADMIN: HashedVariable has started the game.
+[00:40:05]ACCESS: Logout: *no client*/(HashedVariable)
+[00:40:05]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[00:40:22]SAY: mouse/ : Squeek!
+[00:40:46]SAY: Ian/ : AUUUUUU
+[00:41:04]ACCESS: Login: MentalJen/(MentalJen) from 99.141.114.25-1720385886 || BYOND v496
+[00:41:15]ADMIN: HashedVariable/(Fucheen Azhoule) healed / revived HashedVariable/(Fucheen Azhoule)
+[00:41:17]ACCESS: Logout: *no client*/(MentalJen)
+[00:41:17]ACCESS: Login: MentalJen/(Jennifur Leijon) from 99.141.114.25-1720385886 || BYOND v496
+[00:41:37]SAY: Ian/ : YAP
+[00:42:41]SAY: Tom/ : Squeek!
+[00:42:42]ADMIN: HashedVariable/(Fucheen Azhoule) deleted all objects of scrict type /obj/item/weapon/handcuffs (26 objects deleted) 
+[00:42:55]ADMIN: HashedVariable/(Fucheen Azhoule) healed / revived HashedVariable/(Fucheen Azhoule)
+[00:44:47]SAY: Runtime/ : Esp!
+[00:45:06]GAME: SQL ERROR during player polling. Failed to connect.
+[00:46:07]GAME: SQL ERROR during admin polling. Failed to connect.
+[00:46:22]SAY: mouse/ : Squeek!
+[00:47:02]SAY: Ian/ : AUUUUUU
+[00:48:28]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 70,98,1 in the Aft Port Primary Hallway
+[00:48:42]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 63,97,1 in the Aft Port Primary Hallway
+[00:49:21]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 57,97,1 in the Aft Port Primary Hallway
+[00:49:30]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 57,100,1 in the Aft Port Primary Hallway
+[00:49:40]SAY: mouse/ : SQUEEK!
+[00:49:54]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 63,100,1 in the Aft Port Primary Hallway
+[00:50:30]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] No!.ogg
+[00:50:39]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] No!.ogg
+[00:50:45]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] Professah!.ogg
+[00:50:47]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] Professaaah!.ogg
+[00:50:49]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] Professah!.ogg
+[00:50:50]SAY: mouse/ : Squeek?
+[00:50:51]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] You almost used the Lord's name in vain!.ogg
+[00:50:56]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] Off has two f's in it, professor!.ogg
+[00:50:59]ADMIN: HashedVariable/(Fucheen Azhoule) played sound [LUKE] Alone starts with the letter A, professor!.ogg
+[00:51:04]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 69,100,1 in the Aft Port Primary Hallway
+[00:51:39]ACCESS: Logout: MentalJen/(Jennifur Leijon)
+[00:51:43]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)

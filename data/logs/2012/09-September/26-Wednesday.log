@@ -1,0 +1,201 @@
+
+
+Starting up. 17:36.46
+---------------------
+
+[17:37:18]ADMIN: Loading Banlistjob
+[17:37:18]ADMIN: Banlistjob is empty.
+[17:37:18]ADMIN: Banlistjob missing base dir.
+[17:37:19]ADMIN: Loading jobban_rank
+[17:37:19]ADMIN: jobban_keylist was empty
+[17:37:19]ADMIN: Updating jobbanfile!
+[17:37:20]ADMIN: Loading Banlist
+[17:37:26]ADMIN: HashedVariable has started the game.
+[17:37:27]ADMIN: Loading jobban_rank
+[17:37:27]ADMIN: jobban_keylist was empty
+[17:37:27]ADMIN: Updating jobbanfile!
+[17:37:27]ADMIN: Loading Banlist
+[17:37:27]ADMIN: Banlist is empty.
+[17:37:27]ADMIN: Banlist missing base dir.
+
+
+Starting up. 17:37.31
+---------------------
+
+[17:37:31]ADMIN: Loading jobban_rank
+[17:37:31]ADMIN: jobban_keylist was empty
+[17:37:31]ADMIN: Updating jobbanfile!
+[17:37:31]ADMIN: Loading Banlist
+[17:37:31]ADMIN: Banlist is empty.
+[17:37:31]ADMIN: Banlist missing base dir.
+[17:37:40]ACCESS: Logout: *no client*/(HashedVariable)
+[17:37:40]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from localhost-4140805430 || BYOND v496
+[17:37:50]SAY: mouse/ : Squeek!
+[17:40:16]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)
+
+
+Starting up. 17:54.10
+---------------------
+
+[17:54:10]ADMIN: Loading jobban_rank
+[17:54:10]ADMIN: jobban_keylist was empty
+[17:54:10]ADMIN: Updating jobbanfile!
+[17:54:10]ADMIN: Loading Banlist
+[17:55:01]ACCESS: Login: HashedVariable/(HashedVariable) from 127.0.0.1-4140805430 || BYOND v496
+[17:55:07]ADMIN: HashedVariable has started the game.
+[17:55:16]ACCESS: Logout: *no client*/(HashedVariable)
+[17:55:16]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[17:56:16]SAY: mouse/ : Squeek?
+[17:56:26]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)
+
+
+Starting up. 19:16.31
+---------------------
+
+[19:16:31]ADMIN: Loading jobban_rank
+[19:16:31]ADMIN: jobban_keylist was empty
+[19:16:31]ADMIN: Updating jobbanfile!
+[19:16:31]ADMIN: Loading Banlist
+[19:17:13]ACCESS: Login: HashedVariable/(HashedVariable) from 127.0.0.1-4140805430 || BYOND v496
+[19:17:16]ADMIN: HashedVariable has started the game.
+[19:17:23]ACCESS: Logout: *no client*/(HashedVariable)
+[19:17:23]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[19:18:30]SAY: Ian/ : Bark!
+[19:20:34]SAY: mouse/ : Squeek?
+[19:22:21]GAME: SQL ERROR during player polling. Failed to connect.
+[19:23:18]SAY: mouse/ : Squeek?
+[19:23:22]GAME: SQL ERROR during admin polling. Failed to connect.
+[19:23:25]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)
+
+
+Starting up. 20:16.41
+---------------------
+
+[20:16:41]ADMIN: Loading jobban_rank
+[20:16:41]ADMIN: jobban_keylist was empty
+[20:16:41]ADMIN: Updating jobbanfile!
+[20:16:41]ADMIN: Loading Banlist
+[20:16:51]ACCESS: Login: HashedVariable/(HashedVariable) from 127.0.0.1-4140805430 || BYOND v496
+[20:16:55]ADMIN: HashedVariable has started the game.
+[20:17:02]ACCESS: Logout: *no client*/(HashedVariable)
+[20:17:02]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[20:17:20]SAY: Ian/ : Bark!
+[20:17:56]SAY: Ian/ : Woof!
+[20:19:07]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 57,97,1 in the Aft Primary Hallway
+[20:20:00]SAY: Tom/ : SQUEEK!
+[20:22:00]GAME: SQL ERROR during player polling. Failed to connect.
+[20:23:00]GAME: SQL ERROR during admin polling. Failed to connect.
+[20:23:15]SAY: mouse/ : Squeek!
+[20:24:17]ADMIN: HashedVariable/(Fucheen Azhoule) modified captain's backpack's force to 1000
+[20:25:51]SAY: Runtime/ : Purr!
+[20:26:01]SAY: mouse/ : Squeek!
+[20:26:21]SAY: mouse/ : SQUEEK!
+[20:26:27]SAY: mouse/ : SQUEEK!
+[20:27:47]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:27:51]SAY: mouse/ : Squeek?
+[20:28:03]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:28:11]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:28:21]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:28:27]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:28:59]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:29:11]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:29:39]SAY: mouse/ : SQUEEK!
+[20:29:45]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[20:30:49]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:30:50]GAME: SQL ERROR during death reporting. Failed to connect.
+[20:32:42]SAY: mouse/ : Squeek?
+[20:33:02]GAME: SQL ERROR during player polling. Failed to connect.
+[20:33:31]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)
+
+
+Starting up. 20:45.32
+---------------------
+
+[20:45:32]ADMIN: Loading jobban_rank
+[20:45:32]ADMIN: jobban_keylist was empty
+[20:45:32]ADMIN: Updating jobbanfile!
+[20:45:32]ADMIN: Loading Banlist
+[20:47:38]ACCESS: Login: HashedVariable/(HashedVariable) from 127.0.0.1-4140805430 || BYOND v496
+[20:47:50]ADMIN: HashedVariable has started the game.
+[20:47:50]ACCESS: Logout: *no client*/(HashedVariable)
+[20:47:50]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[20:48:59]SAY: mouse/ : SQUEEK!
+[20:51:05]SAY: mouse/ : SQUEEK!
+[20:51:47]SAY: mouse/ : SQUEEK!
+[20:52:52]GAME: SQL ERROR during player polling. Failed to connect.
+[20:52:58]SAY: mouse/ : SQUEEK!
+[20:53:30]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)
+
+
+Starting up. 21:21.01
+---------------------
+
+[21:21:01]ADMIN: Loading jobban_rank
+[21:21:01]ADMIN: jobban_keylist was empty
+[21:21:01]ADMIN: Updating jobbanfile!
+[21:21:01]ADMIN: Loading Banlist
+[21:21:05]ADMIN: HashedVariable has started the game.
+[21:21:10]ACCESS: Logout: *no client*/(HashedVariable)
+[21:21:10]ACCESS: Login: HashedVariable/(Fucheen Azhoule) from 127.0.0.1-4140805430 || BYOND v496
+[21:21:30]SAY: mouse/ : Squeek!
+[21:21:32]SAY: mouse/ : SQUEEK!
+[21:22:16]SAY: mouse/ : SQUEEK!
+[21:26:08]GAME: SQL ERROR during player polling. Failed to connect.
+[21:27:09]GAME: SQL ERROR during admin polling. Failed to connect.
+[21:29:13]SAY: mouse/ : Squeek!
+[21:30:39]SAY: Runtime/ : Esp!
+[21:31:51]SAY: Tom/ : Squeek?
+[21:32:47]SAY: mouse/ : Squeek?
+[21:35:27]SAY: mouse/ : Squeek!
+[21:37:10]GAME: SQL ERROR during player polling. Failed to connect.
+[21:37:30]ADMIN: HashedVariable/(Fucheen Azhoule) jumped to 63,100,1 in the Aft Primary Hallway
+[21:38:11]GAME: SQL ERROR during admin polling. Failed to connect.
+[21:39:26]SAY: Ian/ : Bark!
+[21:42:12]SAY: Tom/ : SQUEEK!
+[21:43:08]SAY: mouse/ : Squeek?
+[21:43:46]SAY: mouse/ : SQUEEK!
+[21:44:02]SAY: Runtime/ : Meow!
+[21:46:02]SAY: mouse/ : SQUEEK!
+[21:46:52]SAY: mouse/ : SQUEEK!
+[21:46:52]SAY: Tom/ : Squeek?
+[21:47:02]SAY: mouse/ : SQUEEK!
+[21:48:12]GAME: SQL ERROR during player polling. Failed to connect.
+[21:49:13]GAME: SQL ERROR during admin polling. Failed to connect.
+[21:50:25]SAY: Ian/ : YAP
+[21:50:59]SAY: Tom/ : SQUEEK!
+[21:52:49]SAY: mouse/ : Squeek?
+[21:57:49]SAY: mouse/ : Squeek?
+[21:58:41]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> coughs!
+[21:58:59]SAY: mouse/ : Squeek!
+[21:59:05]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> coughs!
+[21:59:14]GAME: SQL ERROR during player polling. Failed to connect.
+[21:59:22]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> coughs!
+[21:59:54]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> coughs!
+[22:00:15]GAME: SQL ERROR during admin polling. Failed to connect.
+[22:00:47]SAY: mouse/ : Squeek?
+[22:01:23]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:01:39]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:01:41]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:01:51]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:01:57]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:02:49]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:02:57]SAY: Runtime/ : Esp!
+[22:03:13]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:03:35]SAY: Ian/ : Bark!
+[22:04:01]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:04:17]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:05:01]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:05:11]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:06:05]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> gasps!
+[22:06:19]EMOTE: Fucheen Azhoule/HashedVariable : <B>Fucheen Azhoule</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:06:20]GAME: SQL ERROR during death reporting. Failed to connect.
+[22:08:14]SAY: mouse/ : Squeek!
+[22:08:44]SAY: Runtime/ : Meow!
+[22:10:16]GAME: SQL ERROR during player polling. Failed to connect.
+[22:11:17]GAME: SQL ERROR during admin polling. Failed to connect.
+[22:12:25]SAY: mouse/ : SQUEEK!
+[22:15:03]SAY: Ian/ : AUUUUUU
+[22:15:49]SAY: Tom/ : SQUEEK!
+[22:15:53]SAY: mouse/ : SQUEEK!
+[22:16:07]SAY: Ian/ : AUUUUUU
+[22:17:48]ACCESS: Logout: HashedVariable/(Fucheen Azhoule)

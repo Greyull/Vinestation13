@@ -638,6 +638,10 @@ proc/process_ghost_teleport_locs()
 	name = "\improper Aft Primary Hallway"
 	icon_state = "hallA"
 
+/area/hallway/primary/aftport
+	name = "\improper Aft Port Primary Hallway"
+	icon_state = "hallAP"
+
 /area/hallway/primary/port
 	name = "\improper Port Primary Hallway"
 	icon_state = "hallP"
