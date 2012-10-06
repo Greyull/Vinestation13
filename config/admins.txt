@@ -1,4 +1,5 @@
 hashedvariable - Game Master
-mentaljen - Game Admin
+mentaljen - Game Master
 greyiblackjay - Game Master
-revscarecrow - Game Admin
+revscarecrow - Game Master
+horsemanofconquest - Game Admin
