@@ -121,6 +121,7 @@
 
 /obj/item/weapon/implanter/nanoaug/strength
 	name = "Nanoaugmentation Implaner (Superhuman Strength)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/strength/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/strength( src )
@@ -129,6 +130,7 @@
 
 /obj/item/weapon/implanter/nanoaug/radar
 	name = "Nanoaugmentation Implaner (Short-range Psionic Radar)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/radar/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/radar( src )
@@ -137,6 +139,7 @@
 
 /obj/item/weapon/implanter/nanoaug/electrichands
 	name = "Nanoaugmentation Implaner (Electric Hands)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/electrichands/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/electrichands( src )
@@ -145,6 +148,7 @@
 
 /obj/item/weapon/implanter/nanoaug/eswordsynth
 	name = "Nanoaugmentation Implaner (Energy Blade Synthesizer)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/eswordsynth/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/eswordsynth( src )
@@ -153,6 +157,7 @@
 
 /obj/item/weapon/implanter/nanoaug/rebreather
 	name = "Nanoaugmentation Implaner (Bioelectric Rebreather)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/rebreather/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/rebreather( src )
@@ -161,6 +166,7 @@
 
 /obj/item/weapon/implanter/nanoaug/dermalarmor
 	name = "Nanoaugmentation Implaner (Skin-intergrated Dermal Armor)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/dermalarmor/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/dermalarmor( src )
@@ -169,6 +175,7 @@
 
 /obj/item/weapon/implanter/nanoaug/reflexes
 	name = "Nanoaugmentation Implaner (Combat Reflexes)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/reflexes/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/reflexes( src )
@@ -177,6 +184,7 @@
 
 /obj/item/weapon/implanter/nanoaug/nanoregen
 	name = "Nanoaugmentation Implaner (Regenerative Nanobots)"
+	origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 
 /obj/item/weapon/implanter/nanoaug/nanoregen/New()
 	src.imp = new /obj/item/weapon/implant/nanoaug/nanoregen( src )
