@@ -29,11 +29,13 @@ return 1
  
 /obj/item/weapon/implant/nanoaug/strength
 name = "Superhuman Strength"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = SUPRSTR
 augment_text = "You muscle ache, and you feel a rapid surge of energy pulse through your body. You feel strong."
  
 /obj/item/weapon/implant/nanoaug/radar
 name = "Short-range Psionic Radar"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = RADAR
 augment_text = "You begin to sense the presence or lack of presence of others around you."
  
@@ -53,11 +55,13 @@ return 0
  
 /obj/item/weapon/implant/nanoaug/electrichands
 name = "Electric Hands"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = ELECTRICHANDS
 augment_text = "You feel a sudden jolt of electricity pulse through your veins. Arcs of electricity travel through your hands."
  
 /obj/item/weapon/implant/nanoaug/eswordsynth
 name = "Energy Blade Synthesizer"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = ESWORDSYNTH
 augment_text = "Your hands throb and pulsate. They feel sharper, and strangely hot."
  
@@ -88,21 +92,25 @@ playsound(source.loc, "sparks", 50, 1)
  
 /obj/item/weapon/implant/nanoaug/rebreather
 name = "Bioelectric Rebreather"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = REBREATHER
 augment_text = "You begin to lose your breath. Just as you are about to pass out, you suddenly lose the urge to breath. Breathing is no longer a necessity for you."
  
 /obj/item/weapon/implant/nanoaug/dermalarmor
 name = "Skin-intergrated Dermal Armor"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = DERMALARMOR
 augment_text = "The skin throughout your body grows tense and tight, and you become slightly stiff. Your bones and skin feel a lot stronger."
  
 /obj/item/weapon/implant/nanoaug/reflexes
 name = "Combat Reflexes"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = REFLEXES
 augment_text = "Your mind suddenly is able to identify threats before you are aware of them. You become more aware of your surroundings."
  
 /obj/item/weapon/implant/nanoaug/nanoregen
 name = "Regenerative Nanobots"
+origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
 augmentation = NANOREGEN
 augment_text = "You feel a very faint vibration in your body. You instantly feel much younger."
  
@@ -121,7 +129,6 @@ return
  
 /obj/item/weapon/implanter/nanoaug/strength
 name = "Nanoaugmentation Implaner (Superhuman Strength)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/strength/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/strength( src )
@@ -130,7 +137,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/radar
 name = "Nanoaugmentation Implaner (Short-range Psionic Radar)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/radar/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/radar( src )
@@ -139,7 +145,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/electrichands
 name = "Nanoaugmentation Implaner (Electric Hands)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/electrichands/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/electrichands( src )
@@ -148,7 +153,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/eswordsynth
 name = "Nanoaugmentation Implaner (Energy Blade Synthesizer)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/eswordsynth/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/eswordsynth( src )
@@ -157,7 +161,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/rebreather
 name = "Nanoaugmentation Implaner (Bioelectric Rebreather)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/rebreather/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/rebreather( src )
@@ -166,7 +169,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/dermalarmor
 name = "Nanoaugmentation Implaner (Skin-intergrated Dermal Armor)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/dermalarmor/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/dermalarmor( src )
@@ -175,7 +177,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/reflexes
 name = "Nanoaugmentation Implaner (Combat Reflexes)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/reflexes/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/reflexes( src )
@@ -184,7 +185,6 @@ update()
  
 /obj/item/weapon/implanter/nanoaug/nanoregen
 name = "Nanoaugmentation Implaner (Regenerative Nanobots)"
-origin_tech = "materials=2;biotech=3;powerstorage= 3;combat=2"
  
 /obj/item/weapon/implanter/nanoaug/nanoregen/New()
 src.imp = new /obj/item/weapon/implant/nanoaug/nanoregen( src )
