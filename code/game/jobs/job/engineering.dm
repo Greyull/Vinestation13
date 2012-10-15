@@ -25,6 +25,7 @@
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/engineer(H), slot_r_hand)
 		else
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/engineer(H.back), slot_in_backpack)
+			H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/rebreather/New()(H.back), slot_in_backpack)
 		return 1
 
 
