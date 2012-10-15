@@ -1548,7 +1548,7 @@ datum/design/nanoaug_regen
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/nanoregen"
+        build_path = "/obj/item/weapon/implanter/nanoaug/nanoregen/New()"
        
 datum/design/nanoaug_reflexes
         name = "Combat Reflexes"
@@ -1557,7 +1557,7 @@ datum/design/nanoaug_reflexes
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/reflexes"
+        build_path = "/obj/item/weapon/implanter/nanoaug/reflexes/New()"
        
 datum/design/dermalarmor
         name = "Skin-intergrated Dermal Armor"
@@ -1566,7 +1566,7 @@ datum/design/dermalarmor
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/dermalarmor"
+        build_path = "/obj/item/weapon/implanter/nanoaug/dermalarmor/New()"
                
 datum/design/rebreather
         name = "Bioelectric Rebreather"
@@ -1575,7 +1575,7 @@ datum/design/rebreather
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/rebreather"
+        build_path = "/obj/item/weapon/implanter/nanoaug/rebreather/New()"
                        
 datum/design/eswordsynth
         name = "Energy Blade Synthesizer"
@@ -1584,7 +1584,7 @@ datum/design/eswordsynth
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/eswordsynth"
+        build_path = "/obj/item/weapon/implanter/nanoaug/eswordsynth/New()"
        
 datum/design/electrichands
         name = "Electric Hands"
@@ -1593,7 +1593,7 @@ datum/design/electrichands
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanert/nanoaug/electrichands"
+        build_path = "/obj/item/weapon/implanert/nanoaug/electrichands/New()"
                
 datum/design/radar
         name = "Short-range Psionic Radars"
@@ -1602,7 +1602,7 @@ datum/design/radar
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/radar"
+        build_path = "/obj/item/weapon/implanter/nanoaug/radar/New()"
                        
 datum/design/strength
         name = "Superhuman Strength"
@@ -1611,7 +1611,7 @@ datum/design/strength
         req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
         materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
-        build_path = "/obj/item/weapon/implanter/nanoaug/strength"
+        build_path = "/obj/item/weapon/implanter/nanoaug/strength/New()"
                                
 datum/design/explosive
         name = "explosive implant"
