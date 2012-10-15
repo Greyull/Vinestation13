@@ -24,16 +24,15 @@
 //		H.equip_to_slot_or_del(new /obj/item/clothing/mask/gas(H), slot_wear_mask) //Grab one from the armory you donk
 		H.equip_to_slot_or_del(new /obj/item/clothing/glasses/sunglasses/sechud(H), slot_glasses)
 		H.equip_to_slot_or_del(new /obj/item/weapon/gun/energy/gun/nuclear(H), slot_s_store)
+		H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/reflexes/New(), slot_l_hand)
+		H.equip_to_slot_or_del(new /obj/item/weapon/melee/classic_baton(H), slot_2_hand)
 		if(H.backbag == 1)
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/survival(H), slot_r_hand)
 			H.equip_to_slot_or_del(new /obj/item/weapon/handcuffs(H), slot_l_store)
 			H.equip_to_slot_or_del(new /obj/item/weapon/melee/classic_baton(H), slot_in_backpack)
-			H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/reflexes/New()H), slot_in_backpack)
 		else
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/survival(H.back), slot_in_backpack)
 			H.equip_to_slot_or_del(new /obj/item/weapon/handcuffs(H), slot_in_backpack)
-			H.equip_to_slot_or_del(new /obj/item/weapon/melee/classic_baton(H), slot_in_backpack)
-			H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/reflexes/New()H), slot_in_backpack)
 		var/obj/item/weapon/implant/loyalty/L = new/obj/item/weapon/implant/loyalty(H)
 		L.imp_in = H
 		L.implanted = 1
