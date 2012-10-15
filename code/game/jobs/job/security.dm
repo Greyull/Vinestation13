@@ -19,7 +19,7 @@
 		H.equip_to_slot_or_del(new /obj/item/clothing/shoes/combat(H), slot_shoes)
 		H.equip_to_slot_or_del(new /obj/item/device/pda/heads/hos(H), slot_belt)
 		H.equip_to_slot_or_del(new /obj/item/clothing/suit/armor/hos(H), slot_wear_suit)
-		H.equip_to_slot_or_del(new /obj/item/clothing/gloves/black(H), slot_gloves)
+		H.equip_to_slot_or_del(new /obj/item/clothing/gloves/combat(H), slot_gloves)
 		H.equip_to_slot_or_del(new /obj/item/clothing/head/helmet/HoS(H), slot_head)
 //		H.equip_to_slot_or_del(new /obj/item/clothing/mask/gas(H), slot_wear_mask) //Grab one from the armory you donk
 		H.equip_to_slot_or_del(new /obj/item/clothing/glasses/sunglasses/sechud(H), slot_glasses)
@@ -30,6 +30,8 @@
 		else
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/survival(H.back), slot_in_backpack)
 			H.equip_to_slot_or_del(new /obj/item/weapon/handcuffs(H), slot_in_backpack)
+			H.equip_to_slot_or_del(new /obj/item/weapon/melee/classic_baton(H), slot_in_backpack)
+			H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/nanoregen/New()H), slot_in_backpack)
 		var/obj/item/weapon/implant/loyalty/L = new/obj/item/weapon/implant/loyalty(H)
 		L.imp_in = H
 		L.implanted = 1
