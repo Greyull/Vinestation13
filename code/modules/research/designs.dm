@@ -1545,82 +1545,82 @@ datum/design/nanoaug_regen
         name = "Regenerative Nanobots"
         desc = "A nanotechnological marvel."
         id = "NANOREGEN"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/nanoregen"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/nanoregen"
        
 datum/design/nanoaug_reflexes
         name = "Combat Reflexes"
         desc = "A nanotechnological marvel."
         id = "REFLEXES"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/reflexes"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/reflexes"
        
 datum/design/dermalarmor
         name = "Skin-intergrated Dermal Armor"
         desc = "A nanotechnological marvel."
         id = "DERMALARMOR"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/dermalarmor"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/dermalarmor"
                
 datum/design/rebreather
         name = "Bioelectric Rebreather"
         desc = "A nanotechnological marvel."
         id = "REBREATHER"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/rebreather"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/rebreather"
                        
 datum/design/eswordsynth
         name = "Energy Blade Synthesizer"
         desc = "A nanotechnological marvel."
         id = "ESWORDSYNTH"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/eswordsynth"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/eswordsynth"
        
 datum/design/electrichands
         name = "Electric Hands"
         desc = "A nanotechnological marvel."
         id = "ELECTRICHANDS"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/electrichands"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanert/nanoaug/electrichands"
                
 datum/design/radar
         name = "Short-range Psionic Radars"
         desc = "A nanotechnological marvel."
         id = "RADAR"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/radar"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/radar"
                        
 datum/design/strength
         name = "Superhuman Strength"
         desc = "A nanotechnological marvel."
         id = "SUPRSTR"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/nanoaug/strength"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/nanoaug/strength"
                                
 datum/design/explosive
         name = "explosive implant"
         desc = "For all your suicide bombing needs."
         id = "BOOM"
-        req_tech = list("materials" = 2, "biotech" = 3, "powerstorage" = 3, "combat" = 2)
+        req_tech = list("materials" = 2, "biotech" = 2, "powerstorage" = 3, "combat" = 2)
         build_type = PROTOLATHE
-        materials = list("$metal" = 2000, "$glass" = 500, "$uranium" = 500)
-        build_path = "/obj/item/weapon/implant/explosive"
+        materials = list("$metal" = 2000, "$glass" = 500, "$plasma" = 500)
+        build_path = "/obj/item/weapon/implanter/explosive"
 
 /////////////////////////////////////////
 //////////////////Test///////////////////
