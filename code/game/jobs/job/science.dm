@@ -17,7 +17,7 @@
 		H.equip_to_slot_or_del(new /obj/item/clothing/under/rank/research_director(H), slot_w_uniform)
 		H.equip_to_slot_or_del(new /obj/item/device/pda/heads/rd(H), slot_belt)
 		H.equip_to_slot_or_del(new /obj/item/clothing/suit/labcoat(H), slot_wear_suit)
-		H.equip_to_slot_or_del(new /obj/item/weapon/clipboard(H), slot_l_hand)
+		H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/electrichands/New(), slot_l_hand)
 		return 1
 
 
