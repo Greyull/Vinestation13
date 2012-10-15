@@ -221,6 +221,7 @@
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/survival(H.back), slot_in_backpack)
 			H.equip_to_slot_or_del(new /obj/item/toy/crayon/mime(H), slot_in_backpack)
 			H.equip_to_slot_or_del(new /obj/item/weapon/reagent_containers/food/drinks/bottle/bottleofnothing(H), slot_in_backpack)
+			H.equip_to_slot_or_del(new /obj/item/weapon/sord(H), slot_in_backpack)
 		H.verbs += /client/proc/mimespeak
 		H.verbs += /client/proc/mimewall
 		H.mind.special_verbs += /client/proc/mimespeak
