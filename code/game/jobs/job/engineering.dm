@@ -21,7 +21,7 @@
 		H.equip_to_slot_or_del(new /obj/item/clothing/head/hardhat/white(H), slot_head)
 		H.equip_to_slot_or_del(new /obj/item/weapon/storage/belt/utility/full(H), slot_belt)
 		H.equip_to_slot_or_del(new /obj/item/clothing/gloves/black(H), slot_gloves)
-		H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/rebreather/New(), slot_l_hand)
+		H.equip_to_slot_or_del(new /obj/item/weapon/implanter/nanoaug/rebreather(H), slot_l_hand)
 		if(H.backbag == 1)
 			H.equip_to_slot_or_del(new /obj/item/weapon/storage/box/engineer(H), slot_r_hand)
 		else
